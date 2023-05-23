@@ -34,3 +34,4 @@ Understand how many parallel sessions you need by using our [Parallel Test Calcu
 ## Additional Resources
 * [Documentation for writing Automate test scripts with BrowserStack](https://www.browserstack.com/docs/automate/playwright)
 # assignment-playright
+# assignment-playright
